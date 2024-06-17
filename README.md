@@ -1,5 +1,5 @@
 # Virtual-interview-system-with-chatGPT
-빅데이터 개론 Chat GPT 아이디어 공모전
+빅데이터 개론 ChatGPT 아이디어 공모전
 
 
 ![스크린샷 2024-06-17 18 56 26](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/daaf1324-afa5-48ae-82de-a80acec53fb4)
