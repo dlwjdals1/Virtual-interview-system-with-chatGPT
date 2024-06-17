@@ -12,7 +12,7 @@
 |---|---|
 ![스크린샷 2024-06-17 18 48 27](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/4f9475e8-4dbf-416c-b5b6-0b6ba3bb72ba)|![스크린샷 2024-06-17 18 48 29](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/0d0c50bd-bf74-4f29-8067-2bf6fb3bd583)
 |---|---|
-![스크린샷 2024-06-17 18 48 33](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/0790c40d-313d-4183-96d2-5f34e30b5b1d)|
+![스크린샷 2024-06-17 18 48 33](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/0790c40d-313d-4183-96d2-5f34e30b5b1d)|![스크린샷 2024-06-17 19 14 54](https://github.com/dlwjdals1/Virtual-interview-system-with-chatGPT/assets/140772914/6fc8eb6e-e479-4a7c-b602-a63315215216)
 
 
 
