@@ -1,4 +1,6 @@
-# Virtual-interview-system-with-chatGPT
+# chatGPT 기반 가상 면접 시스템
+
+chatGPT-based virtual interview system
 빅데이터 개론 ChatGPT 아이디어 공모전
 
 
